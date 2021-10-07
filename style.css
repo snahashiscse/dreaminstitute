@@ -7,7 +7,7 @@
 .hero {
   width: 100%;
   height: 100vh;
-  background-image: url("https://media.istockphoto.com/photos/artificial-intelligence-and-future-concept-picture-id1034901762?k=20&m=1034901762&s=170667a&w=0&h=O0srqhE4Cvl94j8FsfXBlcK4qZEvJG93kTRP0_iA1yk=");
+  background-image: url(images/bg.jpg);
   background-size: cover;
   background-position: center;
   position: relative;
